@@ -1,0 +1,9 @@
+c:\users\rsumalde\documents\visual studio 2015\Projects\MVPTest\MVPTest\bin\Debug\MVPTest.exe.config
+c:\users\rsumalde\documents\visual studio 2015\Projects\MVPTest\MVPTest\bin\Debug\MVPTest.exe
+c:\users\rsumalde\documents\visual studio 2015\Projects\MVPTest\MVPTest\bin\Debug\MVPTest.pdb
+c:\users\rsumalde\documents\visual studio 2015\Projects\MVPTest\MVPTest\obj\Debug\MVPTest.csprojResolveAssemblyReference.cache
+c:\users\rsumalde\documents\visual studio 2015\Projects\MVPTest\MVPTest\obj\Debug\MVPTest.Form1.resources
+c:\users\rsumalde\documents\visual studio 2015\Projects\MVPTest\MVPTest\obj\Debug\MVPTest.Properties.Resources.resources
+c:\users\rsumalde\documents\visual studio 2015\Projects\MVPTest\MVPTest\obj\Debug\MVPTest.csproj.GenerateResource.Cache
+c:\users\rsumalde\documents\visual studio 2015\Projects\MVPTest\MVPTest\obj\Debug\MVPTest.exe
+c:\users\rsumalde\documents\visual studio 2015\Projects\MVPTest\MVPTest\obj\Debug\MVPTest.pdb
